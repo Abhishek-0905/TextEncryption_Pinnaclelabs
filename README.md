@@ -1,1 +1,1 @@
-# TextEncryption_Pinnaclelabs
+TEXT ENCRYPTION
